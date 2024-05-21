@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+1a035b9629e998e76f76045876a1c7dcebddb6da refs/remotes/origin/fix-gateway-deps
+a34f8cbc349186502670c2f5ed3401f6890488b4 refs/remotes/origin/generic-reader
+93d17400b30d73292757c886a179cf802e41250d refs/remotes/origin/main
+0e247604de4f6b60aaa8b1e162c37409b96c5869 refs/tags/anchor-0.26
